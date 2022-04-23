@@ -9,7 +9,7 @@ Skills: Javascript / Typescript / Python / Java / Racket / C / React / Next.js /
 - 🌱 I’m currently learning Rust, CosmWasm, and Terra Ecosystem 
 - 📫 How to reach me: techandy42@gmail.com 
   
-![Personal Website](https://github.com/gitHubAndyLee2020/Personal_Website/blob/main/public/images/portfolio.png)
+[![Personal Website](https://github.com/gitHubAndyLee2020/Personal_Website/blob/main/public/images/portfolio.png)](https://techandy42.com)
   
 [Personal Website](https://techandy42.com)  
 
