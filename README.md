@@ -9,8 +9,6 @@ Skills: Javascript / Typescript / Python / Java / Racket / C / React / Next.js /
 - 🌱 I’m currently learning Rust, CosmWasm, and Terra Ecosystem 
 - 📫 How to reach me: techandy42@gmail.com 
   
-[![Personal Website](https://github.com/gitHubAndyLee2020/Personal_Website/blob/main/public/images/portfolio.png)](https://techandy42.com)
-
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitHubAndyLee2020)](https://github.com/anuraghazra/github-readme-stats)
@@ -18,4 +16,12 @@ Skills: Javascript / Typescript / Python / Java / Racket / C / React / Next.js /
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gitHubAndyLee2020&show_icons=true)  
+  
+---
+  
+## Projects Overview
+  
+[![Personal Website](https://camo.githubusercontent.com/a57c9c18008ff4d418358eedc469367fb3b9090c8a5220e0e017a8de96550335/68747470733a2f2f692e6962622e636f2f5767504d7074732f696d6167652e706e67)](https://techandy42.com)
+
+
 
