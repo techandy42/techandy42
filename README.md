@@ -10,10 +10,12 @@ Skills: Javascript / Typescript / Python / Java / Racket / C / React / Next.js /
 - 📫 How to reach me: techandy42@gmail.com 
   
 [![Personal Website](https://github.com/gitHubAndyLee2020/Personal_Website/blob/main/public/images/portfolio.png)](https://techandy42.com)
-  
-[Personal Website](https://techandy42.com)  
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitHubAndyLee2020)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gitHubAndyLee2020&show_icons=true)  
 
