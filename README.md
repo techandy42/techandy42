@@ -2,7 +2,7 @@
 
 > Personal Website
 
-![my_website_frontpage](./my_website_frontpage.png)
+[![my_website_frontpage](./my_website_frontpage.png)](https://techandy42.com)
 
 ---
 
