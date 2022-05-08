@@ -2,7 +2,7 @@
 
 > Personal Website
 
-[![Personal Website](https://camo.githubusercontent.com/a57c9c18008ff4d418358eedc469367fb3b9090c8a5220e0e017a8de96550335/68747470733a2f2f692e6962622e636f2f5767504d7074732f696d6167652e706e67)](https://techandy42.com)
+![my_website_frontpage](./my_website_frontpage.png)
 
 ---
 
