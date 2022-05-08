@@ -2,7 +2,7 @@
 
 > Personal Website
 
-__Click the image to go to my website.__
+_Click the image to go to my website._
 
 [![my_website_frontpage](./my_website_frontpage.png)](https://techandy42.com)
 
