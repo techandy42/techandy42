@@ -16,8 +16,8 @@ I am a full-stack, blockchain developer learning Computer Science at the Univers
 
 Skills: Javascript / Typescript / Python / Java / Racket / C / React / Next.js / Redux / Material UI / Express / MongoDB / Mongoose / PostgreSQL / Prisma / Solidity / Git 
 
-- 🔭 I’m currently working on a blockchain start-up 
-- 🌱 I’m currently learning Rust, CosmWasm, and Terra Ecosystem 
+- 🔭 I’m currently working on a international moeny transaction start-up 
+- 🌱 I’m currently learning Solidity
 - 📫 How to reach me: techandy42@gmail.com 
   
 ---
