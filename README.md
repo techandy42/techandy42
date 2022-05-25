@@ -12,13 +12,13 @@ Email: techandy42@gmail.com
 
 ---
 
-I am a full-stack, blockchain developer learning Computer Science at the University of Waterloo.
+I am the founder of the P2P crypto exchange company, Quicker, based at the U of Waterloo.
 
 Skills: Javascript / Typescript / Python / Java / Racket / C / React / Next.js / Redux / Material UI / Express / MongoDB / Mongoose / PostgreSQL / Prisma / Solidity / Git 
 
-- 🔭 I’m currently working on a business tokenization start-up
-- 🌱 I’m currently learning Solidity
-- 📫 How to reach me: techandy42@gmail.com 
+- 🔭 I’m currently working on my startup, Quicker.
+- 🌱 I’m currently learning Solidity.
+- 📫 How to reach me: techandy42@gmail.com. 
   
 ---
 
