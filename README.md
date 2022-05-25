@@ -12,11 +12,11 @@ Email: techandy42@gmail.com
 
 ---
 
-I am the founder of the P2P crypto exchange company, Quicker, based at the U of Waterloo.
+I am the founder of the P2P crypto exchange company, [Quicker](https://quicker-official.netlify.app), based at the U of Waterloo.
 
 Skills: Javascript / Typescript / Python / Java / Racket / C / React / Next.js / Redux / Material UI / Express / MongoDB / Mongoose / PostgreSQL / Prisma / Solidity / Git 
 
-- 🔭 I’m currently working on my startup, Quicker.
+- 🔭 I’m currently working on my startup, [Quicker](https://quicker-official.netlify.app).
 - 🌱 I’m currently learning Solidity.
 - 📫 How to reach me: techandy42@gmail.com. 
   
