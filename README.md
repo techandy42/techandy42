@@ -16,7 +16,7 @@ I am the founder of the P2P crypto exchange company, [Quicker](https://quicker-o
 
 Skills: Javascript / Typescript / Python / Java / Racket / C / React / Next.js / Redux / Material UI / Express / MongoDB / Mongoose / PostgreSQL / Prisma / Solidity / Git 
 
-- 🔭 I’m currently working on my startup, [Quicker](https://quicker-official.netlify.app).
+- 🔭 I’m currently working on my startup, ARAAI.
 - 🌱 I’m currently learning C#.
 - 📫 How to reach me: techandy42@gmail.com. 
   
