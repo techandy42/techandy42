@@ -12,9 +12,9 @@ Email: techandy42@gmail.com
 
 ---
 
-I am the founder of the P2P crypto exchange company, [Quicker](https://quicker-official.netlify.app), based at the U of Waterloo.
+I am the founder of the startup ARAAI, which stands for Augmented Reality Assistant Artificial Intelligence.  
 
-Skills: Javascript / Typescript / C# / Solidity / Python / Java / Racket / C / React / Next.js / Redux / Material UI / Express / MongoDB / Mongoose / PostgreSQL / Prisma / Git 
+Skills: Javascript / Typescript / C# / Solidity / Python / Java / Racket / C / React / Next.js / Redux / Material UI / Express / MongoDB / Mongoose / PostgreSQL / Prisma / Git  
 
 - 🔭 I’m currently working on my startup, ARAAI.
 - 🌱 I’m currently learning AR dev.
