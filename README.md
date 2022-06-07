@@ -16,7 +16,7 @@ I am the founder of the startup ARAAI, which stands for Augmented Reality Assist
 
 Skills: Javascript / Typescript / C# / Solidity / Python / Java / Racket / C / React / Next.js / Redux / Material UI / Express / MongoDB / Mongoose / PostgreSQL / Prisma / Git  
 
-- 🔭 I’m currently working on my startup, ARAAI.
+- 🔭 I’m currently working on my startup, Next Level.
 - 🌱 I’m currently learning AR dev.
 - 📫 How to reach me: techandy42@gmail.com. 
   
