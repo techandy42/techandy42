@@ -17,7 +17,7 @@ I am the founder of the startup Next Level, which is an AI Assistant R&D company
 Skills: Javascript / Typescript / C# / Solidity / Python / Java / Racket / C / React / Next.js / Redux / Material UI / Express / MongoDB / Mongoose / PostgreSQL / Prisma / Git  
 
 - 🔭 I’m currently working on my startup, Next Level.
-- 🌱 I’m currently learning AR dev.
+- 🌱 I’m currently learning API stuff.
 - 📫 How to reach me: techandy42@gmail.com. 
   
 ---
