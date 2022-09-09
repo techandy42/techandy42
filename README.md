@@ -12,7 +12,7 @@ Email: techandy42@gmail.com
 
 ---
 
-I am the founder of the startup Next Level, which is an AI Assistant R&D company.
+I am the founder of the startup Algo, which is an AI Assistant company.
 
 Skills: Javascript / Typescript / C# / Solidity / Python / Java / Racket / C / React / Next.js / Redux / Material UI / Express / MongoDB / Mongoose / PostgreSQL / Prisma / Git  
 
