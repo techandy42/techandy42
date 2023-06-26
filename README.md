@@ -12,13 +12,8 @@ Email: techandy42@gmail.com
 
 ---
 
-I am the founder of the startup Algo, which is an AI Assistant Company.
-
-Skills: Javascript / Typescript / Solidity / Python / Java / Racket / C / Rust / React / Next.js / Redux / Material UI / Express / Flask / MongoDB / Mongoose / PostgreSQL / Prisma / Git  
-
-- 🔭 I’m currently working on my startup, Algo.
-- 🌱 I’m currently building the Algo app.
-- 📫 How to reach me: techandy42@gmail.com. 
+I am currently studying cognitive architecture for building autonomous AI.
+My goal is to automate all human work processes with AI.
   
 ---
 
