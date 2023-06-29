@@ -1,11 +1,5 @@
 ### Hi there 👋, My name is Andy Lee
 
-> Personal Website
-
-_Click the image to go to my website._
-
-[![my_website_frontpage](./my_website_frontpage.png)](https://techandy42.com)
-
 ---
 
 Email: techandy42@gmail.com
