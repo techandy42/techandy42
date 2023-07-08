@@ -16,9 +16,3 @@ Email: techandy42@gmail.com
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gitHubAndyLee2020&show_icons=true)  
   
 ---
-  
-## Projects Overview
-  
-
-
-
