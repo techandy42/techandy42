@@ -7,7 +7,7 @@
     📧 Email me
   </a>
   ·
-  <a href="https://www.linkedin.com/in/andy-lee-12345678/">  <!-- Update with your LinkedIn profile -->
+  <a href="https://www.linkedin.com/in/andy-lee-b68302232/">  <!-- Update with your LinkedIn profile -->
     🌐 LinkedIn
   </a>
 </p>
@@ -27,9 +27,9 @@
 
 ---
 
-### 💬 About Me
+### 💬 Interesting Thoughts
 
-> The last years before the singularity...
+- "The last years before the singularity..."
 
 ---
 
