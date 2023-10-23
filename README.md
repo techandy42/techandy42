@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Hokyung (Andy) Lee!</h1>
 
-<h3 align="center">ML Enthusiast & Language Models Aficionado</h3>
+<h3 align="center">ML & Language Models Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:techandy42@gmail.com">
@@ -29,7 +29,7 @@
 
 ### 💬 Interesting Thoughts
 
-- "The last years before the singularity..."
+- "Maybe 2-3 years before AGI? Look at the OpenAI model release schedule."
 
 ---
 
