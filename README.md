@@ -22,14 +22,7 @@
 
 ### 🌱 Interests 
 
-- Machine Learning
-- Language Models
-
----
-
-### 💬 Interesting Thoughts
-
-- "Maybe 2-3 years before AGI? Look at the OpenAI model release schedule."
+- Machine Learning, especially Language Models and Reinforcement Learning.
 
 ---
 
