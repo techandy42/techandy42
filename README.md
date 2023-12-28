@@ -27,5 +27,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitHubAndyLee2020&show_icons=true" alt="Andy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=techandy42&show_icons=true" alt="Andy's GitHub Stats" />
 </p>
