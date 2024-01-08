@@ -22,7 +22,7 @@
 
 ### 🌱 Interests 
 
-- Machine Learning, especially Language Models and Reinforcement Learning.
+- Machine Learning, especially Language Models.
 
 ---
 
