@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Hokyung (Andy) Lee!</h1>
+<h1 align="center">👋 Hi there, I'm Andy Lee!</h1>
 
 <h3 align="center">ML & Language Models Enthusiast</h3>
 
