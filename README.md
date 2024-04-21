@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Andy Lee!</h1>
 
-<h3 align="center">🚀 DS @ Environment Canada | 🎓 CS @ U of Waterloo | 🤖 TPM @ WAT.ai LLM Reading Group | 🏆 4x Hackathon Winner | LLM & RAG Enjoyer</h3>
+<h3 align="center">🚀 DS @ Environment Canada | 🎓 CS @ U of Waterloo | 🤖 ML Researcher @ WAT.ai x hamming.ai | 🏆 4x Hackathon Winner | LLM & RAG Enjoyer</h3>
 
 <p align="center">
   <a href="mailto:techandy42@gmail.com">
