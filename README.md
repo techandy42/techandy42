@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Andy Lee!</h1>
 
-<h3 align="center">🚀 MLE @ Carta | 🎓 3rd Year CS @ U of Waterloo | 🤖 ML Student Researcher @ WAT.ai x hamming.ai </h3>
+<h3 align="center">🚀 Prev @ Carta | 🎓 3rd Year CS @ U of Waterloo | 🤖 ML Researcher @ WAT.ai x hamming.ai </h3>
 
 <p align="center">
   <a href="mailto:techandy42@gmail.com">
