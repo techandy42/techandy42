@@ -1,4 +1,4 @@
-<img src="andy_lee_banner.png" alt="banner"/>
+<img src="andy_lee_banner.png" alt="banner" height="300"/>
 
 <h1 align="center">Andy Lee</h1>
 
